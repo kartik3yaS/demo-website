@@ -14,7 +14,7 @@ function App() {
         <React.Fragment>
           <Route path="/" element={<Home />} />
 
-          <Route path="/post" element={<Profile />} exact />
+          <Route path="/profile" element={<Profile />} exact />
 
           {/* <Route path="/edit/:id" element={<EditPost />} exact />
 
