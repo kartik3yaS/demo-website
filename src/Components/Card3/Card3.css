@@ -1,0 +1,25 @@
+.card3{
+    margin-top: 22rem;
+    margin-left: 5rem;
+    height: 8rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    width: 19rem;
+    border: 2px gray;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px; */
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+}
+.head3 {
+    margin-left: -10rem;
+    margin-top: 0.5rem;
+}
+.content3 {
+    color: gray;
+    font-size: 11.5px;
+    margin-top: -9px;
+}
